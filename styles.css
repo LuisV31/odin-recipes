@@ -1,0 +1,25 @@
+body {
+    background-color: powderblue;
+}
+
+h1,
+h2  {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+
+h1 {
+    font-size: 22px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+img {
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
